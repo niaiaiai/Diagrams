@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfCoreDiagram", "EfCoreDiagram\EfCoreDiagram.csproj", "{30E76A20-1165-44DA-BA60-8FE84A10047D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30E76A20-1165-44DA-BA60-8FE84A10047D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30E76A20-1165-44DA-BA60-8FE84A10047D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30E76A20-1165-44DA-BA60-8FE84A10047D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30E76A20-1165-44DA-BA60-8FE84A10047D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {099976B2-29FB-409B-8187-A6FA5EC77851}
+	EndGlobalSection
+EndGlobal
