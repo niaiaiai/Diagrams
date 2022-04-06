@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Microsoft.Extensions.DependencyInjection.AuthenticationServiceCollectionExtensions">
+    <Position X="1.25" Y="1" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Authentication\AuthenticationServiceCollectionExtensions.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="AuthenticationBuilder" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Microsoft.AspNetCore.Authentication.AuthenticationBuilder">
+    <Position X="6.25" Y="1" Width="2" />
+    <NestedTypes>
+      <Class Name="Microsoft.AspNetCore.Authentication.AuthenticationBuilder.EnsureSignInScheme&lt;TOptions&gt;" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Authentication\AuthenticationBuilder.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>gAAAACAAAAAAAAAAAAAAAAgIAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Authentication\AuthenticationBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
